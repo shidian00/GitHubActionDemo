@@ -36,4 +36,11 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest
+          pytest --doctest-modules --ignore=project_euler/ --ignore=scripts/validate_solutions.py --cov-report=term-missing:skip-covered --cov=. .
+
+        
+        
+        
+        
+
+
