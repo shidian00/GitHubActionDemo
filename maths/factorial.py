@@ -2,7 +2,7 @@
 This is the "example" module.
 dasdasdasd
 The example module supplies one function, factorial().  For example,
-
+dasdasd
 >>> factorial(5)
 120
 """
