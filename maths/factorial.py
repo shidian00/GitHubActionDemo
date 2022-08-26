@@ -1,5 +1,5 @@
 """
-This is the "example" module.
+This is the "example" moduledasd.
 >>> factorial(5)
 120
 """
