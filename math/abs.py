@@ -1,4 +1,4 @@
-"""Absolute Value."""
+"""Absolute Value Demo"""
 
 
 def abs_val(num):
