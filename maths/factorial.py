@@ -1,8 +1,5 @@
 """
-This is the "example" module.
-dasdasdasd
-The example moduldasdsadsae supplies one function, factorial().  For example,
-dasdasdasdasddsasadsda
+This is the "example" moduledasd.
 >>> factorial(5)
 120
 """
